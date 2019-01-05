@@ -1,0 +1,25 @@
+body, html{
+    height: 100%;
+    margin: 0;
+}
+
+.background-web {
+    background-image: url("../../../countdown/pics/bg.png");
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.label-greeting{
+    font-family: 'Lobster', cursive;
+    font-size: 45px;
+    font-style: oblique;
+}
+
+.flip-clock-label{
+    color: lightgoldenrodyellow !important;
+    font: 30px 'Cookie', Helvetica, sans-serif;
+}
